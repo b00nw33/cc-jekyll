@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: jekyll update
+latex: true
 ---
 
 Lorem ipsum $$ f(x) = x^2 $$.

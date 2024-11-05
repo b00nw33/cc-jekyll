@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: jekyll update
+mermaid: true
 ---
 
 Following <a href="https://japoneris.neocities.org/tech/2022/07/15/including_html">HTML files within markdown for Jekyll</a>, HTML for Mermaid injected as follows: 
