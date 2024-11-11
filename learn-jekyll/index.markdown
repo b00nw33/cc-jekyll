@@ -7,7 +7,7 @@ layout: home
 
 Welcome to my digital space, where innovation meets curiosity! I'm Remi, a tech enthusiast with a passion for exploring and shaping the future of technology. With a background in [your area of expertise, e.g., software engineering, AI development, cybersecurity], I’ve spent my career delving deep into the intricacies of cutting-edge tools, emerging trends, and transformative ideas that drive our connected world.
 
-[Bootstrap 5 test](./bootstrap.html)
+[Bootstrap 5 test](./pages/bootstrap.html)
 
 {{ "my test" | upcase }}
 
