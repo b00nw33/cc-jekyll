@@ -7,3 +7,4 @@ Hosted on:
 - [Github](https://b00nw33.github.io/cc-jekyll/)
 - [Cloudflare](https://cc-jekyll.pages.dev/)
 - [Render](https://cc-jekyll.onrender.com/)
+- Netlify?
